@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:07.005139
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 根本說一切有部苾芻習學略法
 #+PROPERTY: CBETA_ID T45n1905
 #+PROPERTY: ID KR6k0192
