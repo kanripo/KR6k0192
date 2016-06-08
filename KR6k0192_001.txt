@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:46:07.005139
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:45
 #+TITLE: 根本說一切有部苾芻習學略法
 #+PROPERTY: CBETA_ID T45n1905
 #+PROPERTY: ID KR6k0192
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 45, No. 1905
 #+PROPERTY: VOL 45
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0192_T_001-0912a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1905¶
-
- 根本說一切有部苾芻習學略法¶
+No. 1905¶
+根本說一切有部苾芻習學略法¶
 ¶
 元帝師苾芻拔合思巴集¶
 
